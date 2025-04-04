@@ -13,6 +13,10 @@
 > 번역본 전체적으로 재검토 필요  
 > ~~어떻게 스트링중 70퍼가 개드립이나 패러디~~
 
+> ![](https://github.com/DominoKorean/Aether-PBR/raw/main/tags/Modrinth-0E1115.svg) (검토중)  
+> 
+[![](https://github.com/DominoKorean/Aether-PBR/raw/main/tags/Curse_Forege-0E1115.svg)](https://www.curseforge.com/minecraft/texture-packs/korean-localization-25w14craftmine)
+
 <br>
 
 ## 적용법
@@ -20,10 +24,10 @@
 `설정`에서 `리소스팩`으로 들어간 후  
 팩 폴더에 리소스팩 파일을 집어넣어 가져오거나  
 화면 밖에서 드래그 앤 드랍으로 가져오실 수 있습니다.  
-<br/>
+<br>
 ![](screenshots/2024-04-03-004336.png)
 
-<br/>
+<br>
 
 ## 사용 시 참고사항
 
