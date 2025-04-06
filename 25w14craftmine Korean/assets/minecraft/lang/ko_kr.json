@@ -109,7 +109,7 @@
     "container.mine_crafter.donate": "기부\n경험치 %s를 사용하여 마인크래프터 테이블 업그레이드를 진행하세요",
     "container.mine_crafter.drawer": "마인 효과",
     "container.mine_crafter.fail": "다음 번엔 더 잘할 수 있을 거예요",
-    "container.mine_crafter.hints": "반견되지 않음",
+    "container.mine_crafter.hints": "발견되지 않음",
     "container.mine_crafter.level": "레벨: %s  %s / %s",
     "container.mine_crafter.no_hints": "해냈어요!!!",
     "container.mine_crafter.won": "마인 성공!",
