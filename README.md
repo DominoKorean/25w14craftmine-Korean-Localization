@@ -32,7 +32,7 @@
 ## 사용 시 참고사항
 
 - 파일 공유는 가능하면 삼가해주세요.
-- 번역 오류나 더 나은 제안이 있다면 [Issues](https://github.com/DominoKorean/24w14potato-Korean-Localization/issues)에서 해주시면 됩니다.
+- 번역 오류나 더 나은 제안이 있다면 [Issues](https://github.com/DominoKorean/25w14craftmine-Korean-Localization)에서 해주시면 됩니다.
 
 ### 번역 참고사항
 * 번역 파일 내 `//의역 아님` 이라고 적혀있는건 번역으로 살릴 방법을 못찾겠어서 그냥 완전히 새로운 텍스트로 대체한겁니다.  
