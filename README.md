@@ -13,8 +13,8 @@
 > 번역본 전체적으로 재검토 필요  
 > ~~어떻게 스트링중 70퍼가 개드립이나 패러디~~
 
-> ![](https://github.com/DominoKorean/Aether-PBR/raw/main/tags/Modrinth-0E1115.svg) (검토중)  
-> 
+[![](https://github.com/DominoKorean/Aether-PBR/raw/main/tags/Github-black.svg)](https://github.com/DominoKorean/25w14craftmine-Korean-Localization)
+[![](https://github.com/DominoKorean/Aether-PBR/raw/main/tags/Modrinth-0E1115.svg)](https://modrinth.com/resourcepack/25w14craftmine-korean-localization)
 [![](https://github.com/DominoKorean/Aether-PBR/raw/main/tags/Curse_Forege-0E1115.svg)](https://www.curseforge.com/minecraft/texture-packs/korean-localization-25w14craftmine)
 
 <br>
